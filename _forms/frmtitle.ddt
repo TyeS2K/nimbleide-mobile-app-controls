@@ -1,0 +1,97 @@
+frmtitle,,DOCUMENT,Mobile Control|50|155|480|640|1355481117|65920
+    frmtitle,,version,5.0
+    frmtitle,,loadlibs,Mobile Control
+    frmtitle,,groupid,9999999999
+    frmtitle,,groupby,0
+    frmtitle,,runpos,0|0
+    frmtitle,,DOCK,FFFF
+    frmtitle,,PARENT,
+    frmtitle,,MARGINS,
+    frmtitle,,AUTOSIZE,false
+    frmtitle,,JSON,{}
+    frmtitle,,TEXT,Mobile Control
+    frmtitle,,TOOLTIP,
+    frmtitle,,ENABLED,true
+    frmtitle,,VISIBLE,true
+    frmtitle,,FORECOLOR,&h000000
+    frmtitle,,BACKCOLOR,&heeeeee
+    frmtitle,,ICON,media/icons/on_dot.ico
+    frmtitle,,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    frmtitle,,FONTSIZE,14px
+    frmtitle,,FONTBOLD,false
+    frmtitle,,FONTITALIC,false
+    frmtitle,,FONTUNDERLINE,false
+    frmtitle,,FONTSTRIKETHRU,false
+    frmtitle,,MENUBAR,
+    frmtitle,,TOOLBAR,
+    frmtitle,,STATUSBAR,
+    frmtitle,,SAVESTATE,false
+    frmtitle,,drag.x,
+    frmtitle,,drag.y,
+    frmtitle,,xdragrange,
+    frmtitle,,ydragrange,
+    frmtitle,,size.x,
+    frmtitle,,size.y,
+    frmtitle,,negadj,
+    frmtitle,,posadj,
+    frmtitle,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #EEEEEE<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> auto<LF>text-decoration<COLN> <LF>z-index<COLN> 2<LF>body.background-color<COLN> #f0f0f0<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #000000<LF>body.text-align<COLN> <LF>body.vertical-align<COLN>
+    frmtitle,,events,activate<COLN> title.startup<CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    frmtitle,,extend,{}
+    frmtitle,,GROUPIDS,
+    frmtitle,,WSTYLES,1355481117
+    frmtitle,,WSTYLESEX,65920
+    frmtitle,,WIDTH,480
+    frmtitle,,HEIGHT,640
+    frmtitle,,EDITPOS,50|155
+frmtitle,picturex1,TARGET,~
+frmtitle,picturex1,PARENTGROUP,~
+frmtitle,picturex1,load,graphicx|media/img_missing.png|99|164|275|252|1342373901|0
+    frmtitle,picturex1,group,false
+    frmtitle,picturex1,groupid,0
+    frmtitle,picturex1,groupby,9999999999
+    frmtitle,picturex1,widgetlock,false
+    frmtitle,picturex1,iswidget,false
+    frmtitle,picturex1,iscollection,false
+    frmtitle,picturex1,collectname,
+    frmtitle,picturex1,widgetname,
+    frmtitle,picturex1,placeholder,
+    frmtitle,picturex1,addedby,
+    frmtitle,picturex1,DOCK,FFFF
+    frmtitle,picturex1,PICTURE,images/008-laptop-1.png
+    frmtitle,picturex1,SIZE,275<PIP>252
+    frmtitle,picturex1,JSON,{}
+    frmtitle,picturex1,TEXT,
+    frmtitle,picturex1,TOOLTIP,
+    frmtitle,picturex1,ENABLED,true
+    frmtitle,picturex1,VISIBLE,true
+    frmtitle,picturex1,ZORDER,0
+    frmtitle,picturex1,FORECOLOR,&h000000
+    frmtitle,picturex1,BACKCOLOR,transparent
+    frmtitle,picturex1,FONTNAME,inherit
+    frmtitle,picturex1,FONTSIZE,10.2pt
+    frmtitle,picturex1,FONTBOLD,false
+    frmtitle,picturex1,FONTITALIC,false
+    frmtitle,picturex1,FONTUNDERLINE,false
+    frmtitle,picturex1,FONTSTRIKETHRU,false
+    frmtitle,picturex1,INFO,imagex
+    frmtitle,picturex1,PAGECOUNT,0
+    frmtitle,picturex1,DATABIND,
+    frmtitle,picturex1,BINDMAPPING,
+    frmtitle,picturex1,drag.x,1
+    frmtitle,picturex1,drag.y,1
+    frmtitle,picturex1,xdragrange,-1<SEMI> -1
+    frmtitle,picturex1,ydragrange,-1<SEMI> -1
+    frmtitle,picturex1,size.x,1
+    frmtitle,picturex1,size.y,1
+    frmtitle,picturex1,negadj,
+    frmtitle,picturex1,posadj,
+    frmtitle,picturex1,child,false
+    frmtitle,picturex1,displaymode,absolute
+    frmtitle,picturex1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-graphicx<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> !!!!<LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>font-family<COLN> inherit<LF>font-size<COLN> 10.2pt<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>div.display<COLN> inline-block<LF>div.left<COLN> calc(50% - 140px)<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.top<COLN> calc(50% - 125px)
+    frmtitle,picturex1,LOCK,false
+    frmtitle,picturex1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    frmtitle,picturex1,extend,{}
+frmtitle,picturex1,REFRESH, 
+frmtitle,,SETVIEW,
+frmtitle,,HIDE,
+frmtitle,,REFRESH,true

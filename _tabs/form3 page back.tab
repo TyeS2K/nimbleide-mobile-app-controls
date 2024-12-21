@@ -1,0 +1,47 @@
+form3 page back,,SDK,|50|155|722|591|268435456|65920
+    form3 page back,,version,5.0
+    form3 page back,,loadlibs,
+    form3 page back,,groupid,9999999999
+    form3 page back,,groupby,0
+    form3 page back,,runpos,0|0
+    form3 page back,,DOCK,FFFF
+    form3 page back,,PARENT,
+    form3 page back,,MARGINS,
+    form3 page back,,AUTOSIZE,false
+    form3 page back,,TEXT,
+    form3 page back,,TOOLTIP,
+    form3 page back,,ENABLED,true
+    form3 page back,,VISIBLE,true
+    form3 page back,,FORECOLOR,&heeeeee
+    form3 page back,,BACKCOLOR,rgba(20<COMMA>20<COMMA>20<COMMA>.25)
+    form3 page back,,ICON,media/icons/off_dot.ico
+    form3 page back,,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    form3 page back,,FONTSIZE,14px
+    form3 page back,,FONTBOLD,false
+    form3 page back,,FONTITALIC,false
+    form3 page back,,FONTUNDERLINE,false
+    form3 page back,,FONTSTRIKETHRU,false
+    form3 page back,,MENUBAR,
+    form3 page back,,TOOLBAR,
+    form3 page back,,STATUSBAR,
+    form3 page back,,SAVESTATE,false
+    form3 page back,,drag.x,
+    form3 page back,,drag.y,
+    form3 page back,,xdragrange,
+    form3 page back,,ydragrange,
+    form3 page back,,size.x,
+    form3 page back,,size.y,
+    form3 page back,,negadj,
+    form3 page back,,posadj,
+    form3 page back,,TAG,~_private<COLN> false<CR>autosize<COLN> false<CR>bind<COLN> false<CR>bindkey<COLN> <CR>category<COLN> <CR>class<COLN> <CR>clipmenu<COLN> true<CR>donottheme<COLN> false<CR>dragable<COLN> true<CR>flattenonpull<COLN> true<CR>hotkey<COLN> <CR>ignorezorder<COLN> false<CR>lock-height<COLN> <CR>lock-left<COLN> <CR>lock-pos<COLN> <CR>lock-size<COLN> <CR>lock-top<COLN> <CR>lock-width<COLN> <CR>output<COLN> normal<CR>prevent<COLN> <CR>record<COLN> <CR>shadow<COLN> true<CR>sizeable<COLN> true<CR>theme<COLN> nimble-form<CR>toggleonflip<COLN> true<CR>useastheme<COLN> false<CR>watch<COLN> false<CR>body.version<COLN> v5.0~cursor<COLN> <CR>display<COLN> <CR>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<CR>font-size<COLN> 14px<CR>opacity<COLN> <CR>pointer-events<COLN> auto<CR>z-index<COLN> 2<CR>body.background-color<COLN> #f0f0f0<CR>body.box-sizing<COLN> border-box<CR>body.color<COLN> #eeeeee<CR>body.overflow<COLN> hidden auto<CR>body.text-align<COLN> <CR>body.vertical-align<COLN>
+    form3 page back,,events,
+    form3 page back,,extend,{}
+    form3 page back,,GROUPIDS,
+    form3 page back,,WSTYLES,268435456
+    form3 page back,,WSTYLESEX,65920
+    form3 page back,,WIDTH,722
+    form3 page back,,HEIGHT,591
+    form3 page back,,EDITPOS,50|155
+form3 page back,,SETVIEW,
+form3 page back,,HIDE,
+form3 page back,,REFRESH,true

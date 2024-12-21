@@ -1,0 +1,57 @@
+
+
+[Build]
+appGUID=c4bb473c-a0da
+
+[Settings]
+BuildTarget=volt
+Startup=frmtitle
+Dialogs=frmmain,frmtitle
+#Workspaces=1
+underscoreJS=
+Width=360
+jQuery=
+ControlStyles=
+FluidDesktop=true
+DisableDesktop=true
+LiveBackground=
+LoadExtended=
+LoadStandard =true
+BuildMobile=true
+Widget=
+LockOrientation=true
+BuildMobileSite=
+MobileZoom=true
+Compress=
+PostBox=
+MVC=
+Instance=
+Theme=1
+
+[Publish]
+Controls=picturex1
+Content=frmmain label1/label;frmmain frame1/frame;frmmain label/label;frmmain label4/label;frmmain label2/label;frmmain textbox1/textbox;frmmain label3/label;frmmain button1/button;frmmain label5/label;frmmain imgbutton1/imgbutton;frmmain imgbuttonx1/imgbuttonx;frmmain label6/label;frmmain checkbox1/checkbox;frmmain check3box1/check3state;frmmain option1/option;frmmain label7/label;frmmain updown1/up-down;frmmain slider1/slider;frmmain label8/label;frmmain combo1/combobox;frmmain listbox1/listbox;frmmain label9/label;frmmain progress1/progress;frmmain label10/label;frmmain picture1/graphic;frmmain picturex1/graphicx;frmmain label11/label;frmmain canvas1/canvas;frmmain label22/label;frmmain frmmonth/frame;frmmain lstmonth/listbox;frmmain frmmonths1/frame;frmmain jan/label;frmmain feb/label;frmmain mar/label;frmmain apr/label;frmmain may/label;frmmain jun/label;frmmain jul/label;frmmain aug/label;frmmain sep/label;frmmain oct/label;frmmain nov/label;frmmain dec/label;frmmain label13/label;frmmain rtfeditor1/rtfeditor;frmmain label14/label;frmmain custom1/custom;frmmain label12/label;frmmain tab1/tab;frmmain label16/label;frmmain custom2/custom;frmmain label17/label;frmmain custom3/custom;frmmain label18/label;frmmain custom4/custom;frmmain label19/label;frmmain custom5/custom;frmmain label20/label;frmmain custom6/custom;frmmain label21/label;frmmain custom7/custom;frmmain label15/label;frmtitle picturex1/graphicx;
+AddnlPlugins=<platform name="android">;  <config-file target="AndroidManifest.xml" mode="merge" parent="/manifest">;    <uses-permission android:name="android.permission.INTERNET" />;    <uses-permission android:name="android.permission.NETWORK_ACCESS" />;    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />;    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />;    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />;    <uses-permission android:name="android.permission.VIBRATE" />;  </config-file>;</platform>;
+MobilePlugins=<plugin name="cordova-plugin-android-permissions" source="npm" />;<plugin name="cordova-plugin-battery-status" source="npm" />;<plugin name="cordova-plugin-media" source="npm" />;<plugin name="cordova-plugin-device" source="npm" />;<plugin name="cordova-plugin-screen-orientation" source="npm" />;<plugin name="cordova-plugin-geolocation" source="npm" />;<plugin name="cordova-plugin-globalization" source="npm" />;<plugin name="cordova-plugin-vibration" source="npm" />;<plugin name="cordova-plugin-whitelist" source="npm" />;<plugin name="cordova-plugin-network-information" source="npm" />;<plugin name="cordova-plugin-file" source="npm" />;
+Permissions=
+SelectedPlugins=["nimble-base","cordova-plugin-android-permissions","cordova-plugin-battery-status","cordova-plugin-media","cordova-plugin-device","cordova-plugin-screen-orientation","cordova-plugin-geolocation","cordova-plugin-globalization","cordova-plugin-vibration","cordova-plugin-whitelist","cordova-plugin-network-information","cordova-plugin-file"]
+OrientationIndex=
+ElectronVersion=3.1.0
+iOSVersion=5.1.1
+DroidVersion=9.1.0
+Libraries=(ck5-editor),(highcharts-donut3d),(slickgrid),(highcharts-overunder),(highcharts-column3d),(vizjs),(fullcalendar),(mobile-lists),(icon),(rtfeditor)
+AutoPublish=
+Root=
+PageDescription=
+ApplicationName=
+PageKeyWords=
+PageAuthor=
+PageTitle=
+Tooltip=
+Caption=
+Icon=
+
+[Electron]
+OpenSource=true
+DevTools=
+SizeIndex=5

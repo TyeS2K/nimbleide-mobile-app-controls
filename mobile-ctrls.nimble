@@ -1,0 +1,12 @@
+JS
+4
+!scratchpad,_forms/!scratchpad.ddt
+frmmain,_forms/frmmain.ddt
+frmtitle,_forms/frmtitle.ddt
+form3,_forms/form3.ddt
+5
+globals.js,_modules/globals.js
+declares.js,_modules/declares.js
+appservice.js,_modules/appservice.js
+appstart.js,_modules/appstart.js
+events.js,_modules/events.js

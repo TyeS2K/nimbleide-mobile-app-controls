@@ -1,0 +1,48 @@
+frmmain page back,,DOCUMENT,|50|155|430|815|268435456|65920
+    frmmain page back,,version,5.0
+    frmmain page back,,loadlibs,
+    frmmain page back,,groupid,9999999999
+    frmmain page back,,groupby,0
+    frmmain page back,,runpos,0|0
+    frmmain page back,,DOCK,FFFF
+    frmmain page back,,PARENT,
+    frmmain page back,,MARGINS,
+    frmmain page back,,AUTOSIZE,false
+    frmmain page back,,JSON,{}
+    frmmain page back,,TEXT,
+    frmmain page back,,TOOLTIP,
+    frmmain page back,,ENABLED,true
+    frmmain page back,,VISIBLE,true
+    frmmain page back,,FORECOLOR,&heeeeee
+    frmmain page back,,BACKCOLOR,&hffffff
+    frmmain page back,,ICON,media/icons/off_dot.ico
+    frmmain page back,,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    frmmain page back,,FONTSIZE,14px
+    frmmain page back,,FONTBOLD,false
+    frmmain page back,,FONTITALIC,false
+    frmmain page back,,FONTUNDERLINE,false
+    frmmain page back,,FONTSTRIKETHRU,false
+    frmmain page back,,MENUBAR,
+    frmmain page back,,TOOLBAR,
+    frmmain page back,,STATUSBAR,
+    frmmain page back,,SAVESTATE,false
+    frmmain page back,,drag.x,
+    frmmain page back,,drag.y,
+    frmmain page back,,xdragrange,
+    frmmain page back,,ydragrange,
+    frmmain page back,,size.x,
+    frmmain page back,,size.y,
+    frmmain page back,,negadj,
+    frmmain page back,,posadj,
+    frmmain page back,,TAG,~_private<COLN> false<LF>autosize<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #FFFFFF<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> auto<LF>text-decoration<COLN> <LF>z-index<COLN> 2<LF>body.background-color<COLN> #f0f0f0<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.text-align<COLN> <LF>body.vertical-align<COLN>
+    frmmain page back,,events,
+    frmmain page back,,extend,{}
+    frmmain page back,,GROUPIDS,
+    frmmain page back,,WSTYLES,268435456
+    frmmain page back,,WSTYLESEX,65920
+    frmmain page back,,WIDTH,430
+    frmmain page back,,HEIGHT,815
+    frmmain page back,,EDITPOS,50|155
+frmmain page back,,SETVIEW,
+frmmain page back,,HIDE,
+frmmain page back,,REFRESH,true
